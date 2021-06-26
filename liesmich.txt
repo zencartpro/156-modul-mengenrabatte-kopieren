@@ -1,0 +1,12 @@
+Modul Discount Copier aus dem folgenden Thread:
+https://www.zen-cart.com/showthread.php?137445-copy-quantity-discounts
+
+angepasst für Zen Cart 1.5.6 deutsch und PHP 7.3/7.4
+
+Hier ist ein Rabatt-Kopierer. 
+Er funktioniert mit den Mengenrabatten, die im Standard Zen Cart verwendet werden, und ermöglicht es, einen Rabatt auf ein Produkt, eine Kategorie oder den gesamten Shop zu kopieren.
+Ebenso lassen sich bestehende Rabatte löschen. Die Installation ist denkbar einfach, es werden keine Dateien überschrieben.
+Trotzdem sollte man vor dem ersten Einsatz die Datenbank sichern!
+
+DEINADMIN umbenennen und hochladen.
+Unter Webshop ist dann der Menüpunkt Rabatte kopieren verfügbar
